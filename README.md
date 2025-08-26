@@ -1,6 +1,7 @@
 The Archive
 ===========
 The largest single-host archive for Chapter 1* builds of Fortnite. Currently sitting at over 3.8TB of decompressed gamefiles.\
+All builds are hosted by me.\
 This aims to eventually have every single known version of Chapter 1* Fortnite across **all platforms**.\
 Every build has been Downloaded, organized correctly, verified, and recompressed. All builds have the same folder structure. I find this to be a pain with other Archives, and was a key thought in making this.\
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fchipset808%2FThe-Archive&label=Page+Visits&icon=github&color=%23000&message=&style=flat&tz=UTC)\
